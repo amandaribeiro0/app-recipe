@@ -18,7 +18,7 @@
 
  ### ✅ Demonstração (Mobile) 📲
 <p align="center">
-   <img src=".github/demonstração.gif"> 
+   <img src="https://github.com/amandaribeiro0/app-recipe/blob/main/demonstra%C3%A7%C3%A3o.gif"> 
 </p>
 
 
